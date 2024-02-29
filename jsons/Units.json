@@ -17,7 +17,7 @@
 		"replaces": "Warrior",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Cannot move <by consuming this unit>"],
+		"uniques": ["Cannot move"],
         "civilopediaText": [
 			{"text": "This is your brother, in fact he just exists"}]
 	},
@@ -29,7 +29,7 @@
 		"movement": 3,
 		"strength":10,
 		"rangedStrength": 8,
-		"cost": 9999,
+		"cost": 0,
 		"uniques": ["Unable to capture cities","Ignores terrain cost","Can build [Land] improvements on tiles"]
 	}
 	
