@@ -3,7 +3,7 @@
 		"name": "Undisguised strength",
 		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles>","[+5]% Strength <when fighting in [Rough terrain] tiles> <when attacking>","Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Android"],
-        "row": 0,
-        "column": 0
+        "row": 1,
+        "column": 1
     }
 ]
