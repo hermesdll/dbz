@@ -14,7 +14,7 @@
         ],
         "policies": [
             {
-                "name": "Wiki Page 1",
+                "name": "Android Page 1",
                 "uniques": [
                     "Comment [Androids are robotic/cyborg humans, most of which were created by the evil scientist Dr. Gero. Most of the androids are said to have unlimited energy and eternal life.]"
                 ],
@@ -22,36 +22,30 @@
                 "column": 1
             },
             {
-                "name": "Wiki Page 2",
+                "name": "Android Page 2",
                 "uniques": [
                     "Comment [ Due to their inorganic nature, they, or at least the ones created by Dr. Gero, except for Cell, also have no detectable aura unlike Saiyans, Humans, and others, so they cannot be directly tracked using Scouters or Ki Sense.]"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
-                "name": "Wiki Page 3",
+                "name": "Android Page 3",
                 "uniques": [
                     "Comment [Androids serve as main villains during the Android conflict, each serving a purpose of their own. Originally, all of the androids were planned to be used to kill Goku, however, most of the androids turned to the good side or are destroyed.]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
            
             {
                 "name": "",
                 "uniques": [
-                    "Comment [Homeworld
-                    Earth
-                    Average Height
-                    Similar to the average Earthlings
-                    Diet
-                    Normal androids: purely mechanical; do not require food or water.
-                    Cyborgs: have the same diet as humans.
-                    Bio-androids: the bio-matter gathered from absorbing victims.
-                    Sapience Level
-                    Sapient]"
+                    "Comment [Trivia At the beginning of Dr. Slump (set 5 years before the beginning of Dragon Ball), Senbei Norimaki claims that Arale who he created was the first perfected humanoid android on Earth.
+                    Before the android concept had become more fleshed out in the anime series, particularly by the Trunks Saga (when previously there were only a few android characters in the franchise), the term 'android' is used in 'Enter Goku' by Vegeta, to describe the seemingly invincible Recoome. Funny enough, Android 16 looks very similar to Recoome in terms of hair and stature.
+                    In the manga, the first character to use the term 'android' is Android 8 in the chapter 'Muscle Tower's Final Hour.']"
                 ]
+                
             }
         ]
     }
