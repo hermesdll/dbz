@@ -6,7 +6,7 @@
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Automation is a primary action","Cannot move","Free Social Policy <by consuming this unit>"],
+		"uniques": ["Cannot move","Free Social Policy <by consuming this unit>"],
 		"civilopediaText": [
 			{"text": "This is your father, in fact he just exists"}]
 	},
@@ -17,7 +17,7 @@
 		"replaces": "Warrior",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Automation is a primary action"],
+		"uniques": ["Cannot move <by consuming this unit>"],
         "civilopediaText": [
 			{"text": "This is your brother, in fact he just exists"}]
 	},
