@@ -30,7 +30,9 @@
 		"strength":10,
 		"rangedStrength": 8,
 		"cost": 0,
-		"uniques": ["Unable to capture cities","Ignores terrain cost","Can build [Land] improvements on tiles"]
+		"uniques": ["Unable to capture cities",
+		"Ignores terrain cost",
+		"Can build [Land] improvements on tiles"]
 	}
 	
 ]
