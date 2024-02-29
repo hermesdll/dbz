@@ -6,7 +6,7 @@
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 9999,
-		"uniques": ["<by consuming this unit> <after which this unit is consumed>"],
+		"uniques": ["<when not at war> <after which this unit is consumed>"],
 		"hurryCostModifier": 20
 	},
 		{
