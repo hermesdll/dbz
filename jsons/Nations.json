@@ -27,6 +27,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"uniqueName": "Hellenic League",
 		"unique": ["Free Social Policy","Allow raze capital"],
 		"cities": ["House"]
 	}
