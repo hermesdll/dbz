@@ -14,18 +14,43 @@
         ],
         "policies": [
             {
-                "name": "Wiki",
+                "name": "Wiki Page 1",
                 "uniques": [
-                    "Comment [Androids are robotic/cyborg humans, most of which were created by the evil scientist Dr. Gero. Most of the androids are said to have unlimited energy and eternal life. Due to their inorganic nature, they, or at least the ones created by Dr. Gero, except for Cell, also have no detectable aura unlike Saiyans, Humans, and others, so they cannot be directly tracked using Scouters or Ki Sense. The only one that can be sensed via Ki Sense is Gero's ultimate creation, Cell.]"
+                    "Comment [Androids are robotic/cyborg humans, most of which were created by the evil scientist Dr. Gero. Most of the androids are said to have unlimited energy and eternal life.]"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Tradition Complete",
+                "name": "Wiki Page 2",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free"
+                    "Comment [ Due to their inorganic nature, they, or at least the ones created by Dr. Gero, except for Cell, also have no detectable aura unlike Saiyans, Humans, and others, so they cannot be directly tracked using Scouters or Ki Sense.]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Wiki Page 3",
+                "uniques": [
+                    "Comment [Androids serve as main villains during the Android conflict, each serving a purpose of their own. Originally, all of the androids were planned to be used to kill Goku, however, most of the androids turned to the good side or are destroyed.]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+           
+            {
+                "name": "",
+                "uniques": [
+                    "Comment [Homeworld
+                    Earth
+                    Average Height
+                    Similar to the average Earthlings
+                    Diet
+                    Normal androids: purely mechanical; do not require food or water.
+                    Cyborgs: have the same diet as humans.
+                    Bio-androids: the bio-matter gathered from absorbing victims.
+                    Sapience Level
+                    Sapient]"
                 ]
             }
         ]
