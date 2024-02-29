@@ -5,9 +5,20 @@
 		"uniqueTo": "Test",
 		"replaces": "Settler",
 		"movement": 2,
-		"cost": 9999,
-		"uniques": ["Free Social Policy <by consuming this unit>"],
-		"hurryCostModifier": 20
+		"cost": 0,
+		"uniques": ["Automation is a primary action","Cannot move","Free Social Policy <by consuming this unit>"],
+		"civilopediaText": [
+			{"text": "This is your father, in fact he just exists"}]
+	},
+	{
+		"name": "Brother",
+		"unitType": "Civilian",
+		"uniqueTo": "Test",
+		"movement": 2,
+		"cost": 0,
+		"uniques": ["Automation is a primary action"],
+        "civilopediaText": [
+			{"text": "This is your brother, in fact he just exists"}]
 	},
 		{
 		"name": "Android",
