@@ -1,17 +1,23 @@
-[
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+[   
+     {
+		"name": "Father",
+		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"cost": 9999,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+		{
+		"name": "Android",
+		"unitType": "Android",
+		"uniqueTo": "Test",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength":10,
+		"rangedStrength": 8,
+		"cost": 9999,
+		"uniques": ["Unable to capture cities","Ignores terrain cost","Can build [Land] improvements on tiles"]
 	}
+	
 ]
