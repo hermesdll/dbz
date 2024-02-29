@@ -6,7 +6,7 @@
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 9999,
-		"uniques": ["<when not at war> <after which this unit is consumed>"],
+		"uniques": ["Free Social Policy <by consuming this unit>"],
 		"hurryCostModifier": 20
 	},
 		{
