@@ -2,9 +2,8 @@
      {
 		"name": "Father",
 		"unitType": "Civilian",
-	        "uniqueTo": "Test",
 		"movement": 2,
-		"cost": -1,
+		"cost": 9999,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
@@ -17,7 +16,7 @@
 		"movement": 3,
 		"strength":10,
 		"rangedStrength": 8,
-		"cost": -1,
+		"cost": 9999,
 		"uniques": ["Unable to capture cities","Ignores terrain cost","Can build [Land] improvements on tiles"]
 	}
 	
