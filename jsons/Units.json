@@ -14,6 +14,7 @@
 		"name": "Brother",
 		"unitType": "Civilian",
 		"uniqueTo": "Test",
+		"replaces": "Warrior",
 		"movement": 2,
 		"cost": 0,
 		"uniques": ["Automation is a primary action"],
