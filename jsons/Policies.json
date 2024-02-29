@@ -14,10 +14,9 @@
         ],
         "policies": [
             {
-                "name": "Aristocracy",
+                "name": "Wiki",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "Comment [Androids are robotic/cyborg humans, most of which were created by the evil scientist Dr. Gero. Most of the androids are said to have unlimited energy and eternal life. Due to their inorganic nature, they, or at least the ones created by Dr. Gero, except for Cell, also have no detectable aura unlike Saiyans, Humans, and others, so they cannot be directly tracked using Scouters or Ki Sense. The only one that can be sensed via Ki Sense is Gero's ultimate creation, Cell.]"
                 ],
                 "row": 1,
                 "column": 1
