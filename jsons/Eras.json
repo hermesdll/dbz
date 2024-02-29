@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Dragon ball era",
+        "researchAgreementCost": 99999999,
+        "startingSettlerCount": 0, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 0,
+        "startingMilitaryUnit": "Android",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35]
+    }
+]

@@ -1,5 +1,9 @@
 [
     {
+        "name": "Z-Soul",
+        "movementType": "Land"
+    },
+    {
         "name": "Android",
         "movementType": "Land"
     }
