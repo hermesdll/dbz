@@ -31,9 +31,7 @@
 		"rangedStrength": 8,
 		"cost": 0,
 		"uniques": ["Unable to capture cities",,
-		"Can build [Land] improvements on tiles",
-        "Cannot be intercepted"
-]
+		"Can build [Land] improvements on tiles"]
 	}
 	
 ]
