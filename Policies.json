@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Android",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 1000,
+            "Cultural": 1000,
+            "Diplomatic": 1000,
+            "Domination": 1000,
+            "Scientific": 1000
+        },
+        "uniques": [
+            "Free [Android] appears",
+             "Comment [Androids are said to have unlimited energy and eternal life. Due to their inorganic nature, they also have no aura or ki to sense. There are two types of supply, those that need a constant intake of energy usually stolen from victims to keep their power reservoir from draining and causing the android to malfunction, and those whose power continually replenishes ad nauseum.]"
+        ],
+        "policies": [
+            {
+                "name": "Android Page 1",
+                "uniques": [
+                    "Comment [Androids are robotic/cyborg humans, most of which were created by the evil scientist Dr. Gero. Most of the androids are said to have unlimited energy and eternal life.]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Android Page 2",
+                "uniques": [
+                    "Comment [ Due to their inorganic nature, they, or at least the ones created by Dr. Gero, except for Cell, also have no detectable aura unlike Saiyans, Humans, and others, so they cannot be directly tracked using Scouters or Ki Sense.]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Android Page 3",
+                "uniques": [
+                    "Comment [Androids serve as main villains during the Android conflict, each serving a purpose of their own. Originally, all of the androids were planned to be used to kill Goku, however, most of the androids turned to the good side or are destroyed.]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+           
+            {
+                "name": "",
+                "uniques": [
+                    "Comment [With nearly limitless possibilities and boundless power, Androids are extremely commanding warriors. Powerful constructs built and shaped for battle, never slowing down, never giving up. Able to take extreme damage and dish out, even more, Androids are deadly and impressive characters on the battlefield.]
+                
+            }
+        ]
+    }
+]
