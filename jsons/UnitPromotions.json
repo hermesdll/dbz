@@ -5,5 +5,33 @@
 		"unitTypes": ["Android"],
         "column": 27,
         "row": 1
+    },
+    {
+		"name": "City maps"
+		"uniques": ["[+5]% Strength <vs [City]> <when attacking>"],
+		"unitTypes": ["Android"],
+        "column": 28,
+        "row": 2
+    },
+    {
+		"name": "Water pump"
+		"uniques": ["Eliminates combat penalty for attacking over a river <when attacking>","May travel on Water tiles without embarking","Eliminates combat penalty for attacking across a coast"],
+		"unitTypes": ["Android"],
+        "column": 29,
+        "row": 3
+    },
+    {
+		"name": "Frost resistance"
+		"uniques": ["Can enter ice tiles"],
+		"unitTypes": ["Android"],
+        "column": 30,
+        "row": 4
+    },
+    {
+		"name": "Visual sensors"
+		"uniques": ["Can see invisible [Wounded] units"],
+		"unitTypes": ["Android"],
+        "column": 31,
+        "row": 5
     }
 ]
