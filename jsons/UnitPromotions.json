@@ -26,12 +26,5 @@
 		"unitTypes": ["Android"],
         "column": 30,
         "row": 4
-    },
-    {
-		"name": "Visual sensors"
-		"uniques": ["Can see invisible [Wounded] units"],
-		"unitTypes": ["Android"],
-        "column": 31,
-        "row": 5
     }
 ]
