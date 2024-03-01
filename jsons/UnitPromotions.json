@@ -1,14 +1,14 @@
 [
     {
-		"name": "Combat algorithm"
-		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"name": "Lock On"
+		"uniques": ["[+15]% Strength <when fighting in [All] tiles> <when attacking>"],
 		"unitTypes": ["Android"],
         "column": 27,
         "row": 1
     },
     {
 		"name": "City maps"
-		"uniques": ["[+5]% Strength <vs [City]> <when attacking>"],
+		"uniques": ["[+15]% Strength <vs [City]> <when attacking>"],
 		"unitTypes": ["Android"],
         "column": 28,
         "row": 2
@@ -22,7 +22,7 @@
     },
     {
 		"name": "Frost resistance"
-		"uniques": ["Can enter ice tiles"],
+		"uniques": [""[+5]% Strength <when fighting in [ice tiles] tiles>","Can enter ice tiles"],
 		"unitTypes": ["Android"],
         "column": 30,
         "row": 4
