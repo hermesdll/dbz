@@ -1,0 +1,9 @@
+[
+    {
+		"name": "Combat algorithm"
+		"uniques": ["[+5]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
+		"unitTypes": ["Android"],
+        "column": 27,
+        "row": 1
+    },
+]
