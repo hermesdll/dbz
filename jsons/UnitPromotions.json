@@ -22,7 +22,7 @@
     },
     {
 		"name": "Frost resistance"
-		"uniques": [""[+5]% Strength <when fighting in [ice tiles]>","Can enter ice tiles"],
+		"uniques": ["Can enter ice tiles"],
 		"unitTypes": ["Android"],
         "column": 30,
         "row": 4
